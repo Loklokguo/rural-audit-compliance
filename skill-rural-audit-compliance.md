@@ -1,5 +1,5 @@
 ---
-name: rural-audit-compliance
+name: skill-rural-audit-compliance
 description: 乡村振兴审计合规助手。提供脱敏版审计方案、合规清单、风险排查指南。
 triggers:
   - 审计方案
